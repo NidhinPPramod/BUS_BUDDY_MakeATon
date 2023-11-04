@@ -1,0 +1,13 @@
+.background {
+  min-height: 100vh;
+  background: linear-gradient(
+    to bottom,
+    #222831 0%,
+    #222831 25%,
+    #eeeeee 25%,
+    #eeeeee 100%
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
