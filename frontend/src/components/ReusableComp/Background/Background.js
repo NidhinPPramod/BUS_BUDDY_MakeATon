@@ -1,6 +1,6 @@
 import React from "react";
 import "./Background.css";
-import CampusGoIcon from "../../../images/CampusGoLogo.svg"
+import CampusGoIcon from "../../../images/Buslogo.svg"
 
 function Background({ Children,bottomcomponent,navbar }) {
   return (

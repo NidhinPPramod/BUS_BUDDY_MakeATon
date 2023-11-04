@@ -12,7 +12,7 @@ function LoginPage() {
         Children={
           <Bluecard
             Children={<Login />}
-            text={"Ready to ride? SIGN IN with CAMPUS GO."}
+            text={"Ready to ride? SIGN IN with BUS BUDDY."}
             isLoginPage={true}
           />
         }
