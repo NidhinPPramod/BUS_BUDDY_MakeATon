@@ -1,8 +1,8 @@
-CAMPUSGO - Make a Ton 6.0
+BUS BUDDY - Make a Ton 6.0
 
-CAMPUSGO is a web application designed to streamline and improve the management of bus services within educational institutions. 
+BUS BUDDY is a web application designed to streamline and improve the management of bus services within educational institutions. 
 
-Project overview: CAMPUSGO simplifies the management of institutional bus services, creating a seamless experience for institutions, bus drivers, and passengers. By offering real-time bus tracking, secure payment options, driver-admin features, it empowers users to plan their journey better and stay informed about bus timings, late schedules, and cancellations. It is a web application that enhances the efficiency and user-friendlyness of bus services within the campus.
+Project overview: BUS BUDDY simplifies the management of institutional bus services, creating a seamless experience for institutions, bus drivers, and passengers. By offering real-time bus tracking, secure payment options, driver-admin features, it empowers users to plan their journey better and stay informed about bus timings, late schedules, and cancellations. It is a web application that enhances the efficiency and user-friendlyness of bus services within the campus.
 
 Team Members: 
 1.Sai Krishna
