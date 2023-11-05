@@ -11,7 +11,7 @@ function SignUpPage() {
         Children={
           <Bluecard
             Children={<SignUp />}
-            text={"Travel with ease,SIGN UP with Bus Buddy today."}
+            text={"Travel with ease,SIGN UP with CAMPUS GO today."}
           />
         }
         isSignUp={"true"}
