@@ -5,10 +5,10 @@ CAMPUSGO is a web application designed to streamline and improve the management 
 Project overview: CAMPUSGO simplifies the management of institutional bus services, creating a seamless experience for institutions, bus drivers, and passengers. By offering real-time bus tracking, secure payment options, driver-admin features, it empowers users to plan their journey better and stay informed about bus timings, late schedules, and cancellations. It is a web application that enhances the efficiency and user-friendlyness of bus services within the campus.
 
 Team Members: 
-Sai Krishna
-Nidhin P Pramod
-Praveen Benny
-Neethika Sumesh
+1.Sai Krishna
+2.Nidhin P Pramod
+3.Praveen Benny
+4.Neethika Sumesh
 
 Link: 
 
